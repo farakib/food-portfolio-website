@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+.header-section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.header-section img{
+    width: 400px;
+}
