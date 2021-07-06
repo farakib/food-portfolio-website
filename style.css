@@ -4,7 +4,7 @@ body{
 .header-section{
     display: flex;
     background-color: whitesmoke;
-   margin-bottom: 20px;
+    margin-bottom: 20px;
 }
 h1{
     font-family: 'Poppins', sans-serif;
@@ -77,4 +77,20 @@ a{
     padding-bottom: 30px;
     border-radius: 5px;
     box-shadow: 5px 5px 40px gray;
+}
+.footer-section{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+}
+.footer-section span{
+    color: orange;
+    
+}
+.footer-section h1{
+    color: rgb(187, 181, 181);
+}
+.footer-section p{
+    color: white;
+    font-size: 10px;
 }
