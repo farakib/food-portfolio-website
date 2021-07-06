@@ -52,3 +52,29 @@ a{
 .paragrhap{
    padding-bottom: 80px;
 }
+.recipie-section{
+ padding: 30px 0;
+}
+.food-blog{
+    display: flex;
+}
+.food-blog img{
+    
+    width: 150px;
+    height: 100px;
+}
+
+.recipie-heading h1,p{
+    text-align: center;
+}
+.item{
+    width: 30%;
+    padding-top: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 20px;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 40px gray;
+}
